@@ -19,7 +19,7 @@ Desenvolvo sistemas que substituem trabalho manual repetitivo — integrando Wha
 
 ##  Projetos
 
-###  [Chatbot de Atendimento — Barbearia](https://github.com/Kaua-tech1/automation-de-Agendamento-n8n-whatsapp)
+###  [Chatbot de Agendamento - Barbearia e Clinicas](https://github.com/Kaua-tech1/automation-de-Agendamento-n8n-whatsapp)
 Sistema completo de atendimento via WhatsApp com dois agentes de IA em cadeia.
 
 - Agente principal (o4-mini) gerencia a conversa e contexto
