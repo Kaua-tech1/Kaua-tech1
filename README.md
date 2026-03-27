@@ -19,7 +19,7 @@ Desenvolvo sistemas que substituem trabalho manual repetitivo — integrando Wha
 
 ##  Projetos
 
-###  [Chatbot de Atendimento — Barbearia](https://github.com/Kaua-tech1/projeto_de_atendimento_e_agendamento-n8n)
+###  [Chatbot de Atendimento — Barbearia](https://github.com/Kaua-tech1/automation-de-Agendamento-n8n-whatsapp)
 Sistema completo de atendimento via WhatsApp com dois agentes de IA em cadeia.
 
 - Agente principal (o4-mini) gerencia a conversa e contexto
@@ -32,7 +32,7 @@ Sistema completo de atendimento via WhatsApp com dois agentes de IA em cadeia.
 
 ---
 
-###  [Inventário Empresarial por WhatsApp](https://github.com/Kaua-tech1/workflow_inventario_whatsapp_supabase)
+###  [Inventário Empresarial por WhatsApp](https://github.com/Kaua-tech1/automation-de-inventario-n8n-whatsapp)
 Sistema de gestão de inventário operado inteiramente via WhatsApp, sem necessidade de interface.
 
 - Funcionários registram entradas e saídas de produtos em linguagem natural
